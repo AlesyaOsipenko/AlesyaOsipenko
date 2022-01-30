@@ -4,7 +4,7 @@
 ## I'm junior html-developer
 
 
-- I’m currently learning React
+- I’m currently learning Ruby on Rails
 - I’m currently working on [push](https://github.com/faceless49/cards)
 
 ### Tools:
