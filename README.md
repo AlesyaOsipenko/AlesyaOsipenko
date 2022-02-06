@@ -9,7 +9,8 @@
 
 ### Tools:
 
-<img align="left" alt="HTML5" src='./src/img/icons8-html-5.svg' wdDth="26px"/>
+<img align="left" alt="ruby" src="./src/img/ruby.png" width="26px">
+<img align="left" alt="HTML5" src='./src/img/icons8-html-5.svg' width="26px"/>
 <img align="left" alt="css3" src='./src/img/icons8-css3.svg' width="26px"/>
 <img align="left" alt="nodeJs" src='./src/img/icons8-nodejs.svg' width="26px"/>
 <img align="left" alt="bootstrap" src='./src/img/icons8-bootstrap.svg' width="25px"/>
