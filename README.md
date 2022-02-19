@@ -5,7 +5,6 @@
 
 
 - I’m currently learning Ruby on Rails
-- I’m currently working on [push](https://github.com/faceless49/cards)
 
 ### Tools:
 
