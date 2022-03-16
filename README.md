@@ -4,7 +4,6 @@
 ## I'm junior html-developer
 
 
-- I’m currently learning Ruby on Rails
 
 ### Tools:
 
