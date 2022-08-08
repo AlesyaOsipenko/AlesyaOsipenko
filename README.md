@@ -1,7 +1,7 @@
 
 # Nice to meet you 👋
 ## My name is Alesya
-## I'm a html-developer
+## I'm a web-developer
 
 
 
