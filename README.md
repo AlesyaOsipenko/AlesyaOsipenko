@@ -5,7 +5,7 @@
 
 
 - I’m currently learning Vue.js
-- I’m currently working in <a href=""https://ilavista.by/>Ilavista</a>
+- I’m currently working in https://ilavista.by/>
 
 ### Tools:
 
