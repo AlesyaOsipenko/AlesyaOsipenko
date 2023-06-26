@@ -1,7 +1,7 @@
 
 # Nice to meet you 👋
 ## My name is Alesya
-## I'm junior frontend-developer
+## I'm a frontend-developer
 
 
 - I’m currently learning Vue.js
